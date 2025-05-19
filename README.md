@@ -14,3 +14,4 @@ This project uses Python and Regular Expressions to extract structured data from
    ```bash
    git clone https://github.com/Aderline490/alu_regex-data-extraction-Aderline490.git
    cd alu_regex-data-extraction-Aderline490
+   python3 main.py
